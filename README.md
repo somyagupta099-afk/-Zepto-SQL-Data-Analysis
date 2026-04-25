@@ -1,0 +1,30 @@
+🛒 Zepto SQL Data Analysis
+SQL Analysis of Zepto Dataset: Pricing, Discounts & Inventory Insights
+
+📌 Project Overview
+
+This project focuses on analyzing a retail dataset inspired by Zepto to uncover meaningful business insights related to pricing strategies, discount patterns, and inventory distribution. Using PostgreSQL, raw data has been transformed into structured insights that simulate real-world ecision-making in an e-commerce business environment.
+
+🎯 Objectives
+
+The main objective of this project is to:
+
+Understand pricing and discount trends across products.
+Analyze inventory availability and stock distribution.
+Identify category-wise performance patterns.
+Generate insights that can help improve pricing and sales strategies.
+🛠️Tools & Technologies
+
+PostgreSQL – Used for data storage and query execution.
+SQL (Structured Query Language) – Used for data analysis, filtering, and aggregations
+Kaggle – Used as a source for obtaining the dataset
+Key Insights
+
+Premium categories tend to have lower discount percentages, suggesting stable demand and pricing power.
+Certain categories dominate in terms of product availability, highlighting focus areas for inventory management.
+Price variations across categories indicate differentiated pricing strategies.
+📁 Project Structure
+
+zepto_analysis.sql → Contains all SQL queries used in the project
+zepto_v2.csv → Dataset file
+README.md → Project documentation
